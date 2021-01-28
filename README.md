@@ -4,3 +4,4 @@ Szerver oldal: PHP
 
 Kliens oldal: WinForm
 
+Adatbázis: MySQL
